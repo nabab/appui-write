@@ -1,0 +1,19 @@
+{
+  "name": "bbn/appui-write",
+  "description": "A text treatment system for appui",
+  "keywords": ["write", "php", "appui", "vuejs"],
+  "homepage": "https://github.com/nabab/appui-write",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Nabet",
+      "email": "thomas.nabet@gmail.com",
+      "homepage": "http://bbn.solutions",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "bbn/bbn": "dev-master"
+  }
+}
