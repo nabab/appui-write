@@ -1,0 +1,25 @@
+{
+  "cfg": {
+    "show_code": 1,
+    "show_icon": 1,
+    "allow_children": 1,
+    "i18n": "en"
+  },
+  "id_parent": ["appui"],
+  "text": "Write",
+  "code": "write",
+  "plugin": true,
+  "id_alias": ["plugin", "list", "templates", "option", "appui"],
+  "icon": "nf nf-fa-pencil_square_o",
+  "items": [
+    {
+      "cfg": {
+        "show_code": 1,
+        "show_icon": 1,
+        "allow_children": 1
+      },
+      "text": "List",
+      "code": "list"
+    }
+  ]
+}
